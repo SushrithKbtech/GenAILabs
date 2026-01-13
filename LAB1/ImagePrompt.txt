@@ -1,0 +1,32 @@
+Generate a high-resolution vertical poster for a National-Level Hackathon on “AI & Cybersecurity Innovations.”
+The poster should depict four university students collaborating on laptops in a modern auditorium or lecture hall, with a futuristic cybersecurity theme. Above the students, include a glowing digital shield and lock symbol, representing AI-driven cyber defense.
+Visual style and atmosphere:
+•	Futuristic, high-tech environment
+•	Blue and purple neon color palette
+•	Floating code, data streams, and holographic cybersecurity interfaces in the background
+•	Clean, cinematic lighting with a professional academic feel
+•	Modern, tech-conference aesthetic suitable for a university hackathon
+Text content to be clearly visible and well-structured on the poster:
+•	Title: National-Level Hackathon
+•	Subtitle: AI & Cybersecurity Innovations
+•	Dates (highlighted): 14–15 January 2026
+•	Description: Two-Day On-Campus Hackathon
+•	Venue: RV University, Mysore Road, Bengaluru, Karnataka
+•	Eligibility: UG & PG Engineering Students (All Departments)
+•	Team Size: 2–4 Members
+•	Registration: Free Registration
+•	Registration deadline: Register by 13 January 2026
+•	Cash Prizes (emphasized with icons):
+o	1st Prize: ₹20,000
+o	2nd Prize: ₹10,000
+o	3rd Prize: ₹5,000
+•	Additional note: Merit Awards & Participation Certificates
+•	Include a QR code placeholder labeled “Scan to Register”
+Design requirements:
+•	Clear visual hierarchy with bold typography for the title, dates, and prizes
+•	Minimal clutter and high readability
+•	Icons for venue, eligibility, team size, and prizes
+Tone and purpose:
+Professional, innovative, academic, and student-friendly
+Aspect ratio:
+Vertical (poster format suitable for email, notice boards, and social media)
