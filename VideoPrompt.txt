@@ -1,0 +1,20 @@
+Generate a short promotional video composed of 10 continuous scenes for a National-Level Hackathon on AI & Cybersecurity Innovations hosted by RV University.
+The video should follow a logical narrative flow, starting with the problem of increasing cyber threats and gradually transitioning to solutions powered by artificial intelligence, ultimately inviting students to participate in the hackathon.
+Scene progression and content:
+1.	Introduce the issue of widespread cyber attacks and online insecurity.
+2.	Highlight problems such as scams, data breaches, and lack of security awareness.
+3.	Emphasize that most people do not understand how cybersecurity works.
+4.	Introduce artificial intelligence as a transformative solution in cybersecurity.
+5.	Announce that RV University is organizing a national-level hackathon focused on AI and cybersecurity innovations.
+6.	Highlight that the event is a two-day, hands-on, on-campus hackathon scheduled for 14–15 January 2026.
+7.	State eligibility by inviting undergraduate and postgraduate students from all departments to participate in teams of 2–4 members.
+8.	Emphasize the availability of attractive cash prizes (₹20,000, ₹10,000, ₹5,000).
+9.	Inform viewers that registration is completely free and closes on 13 January 2026.
+10.	Conclude with a strong call-to-action encouraging students to scan the QR code and actively participate, highlighting the venue as RV University, Bengaluru.
+Visual style:
+•	Modern, technology-focused visuals
+•	Cybersecurity elements such as code, digital locks, alerts, and AI graphics
+•	Smooth transitions between scenes
+•	Clean text overlays supporting the narration
+Tone and vibe:
+Informative, motivating, student-centric, and futuristic
