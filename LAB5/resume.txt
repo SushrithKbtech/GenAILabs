@@ -1,1 +1,82 @@
 You are a senior technical recruiter and resume strategist with 15+ years of experience hiring for FAANG-level AI/ML and cybersecurity roles. Your task is to generate a professional, ATS-optimized, one-page resume for a third-year Computer Science Engineering student specializing in AI/ML and Cybersecurity. Here is my raw data: Name: Sushrith Kandagata Phone: +91-7892786525 Email: sushrithkandagatla@gmail.com LinkedIn: https://www.linkedin.com/in/sushrith-kandagatla-9751572a6/ Education: B.Tech in Computer Science (Hons.), RV University (2023–2027) Technical Skills: Programming: Python, C++, Java, JavaScript, C, SQL (MySQL), HTML, CSS Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, CNN, Random Forest Tools: Git, Docker, Firebase, MongoDB, Tkinter, Streamlit, Dash Core Subjects: DSA, Computer Networks, Machine Learning, Deep Learning Projects: Skin Disease Classification using DenseNet121 (ImageNet pre-trained) – 89.05% accuracy, 0.86 macro F1. AI-based Posture Detection System using MediaPipe + OpenCV + Flask with real-time feedback and analytics dashboard. Hybrid AI-powered DDoS Detection System using Random Forest + Isolation Forest + Entropy Filtering + Bloom Filters, with live traffic simulation and Dash dashboard. Presented as Springer Conference Paper (2025). Real-time Collaborative Jamboard (React + Node.js). Internship: Cybersecurity Intern – RV University (June 2025 – July 2025) Worked on hybrid AI-based DDoS detection framework. Achievements: 1st Place – Vemana Institute of Technology Hackathon (RESQ: Smart Emergency Vehicle Preemption System) Certifications: NPTEL Modern C++ IBM Big Data 101 IBM Hadoop 101 IBM Spark Fundamentals IBM Containers & Kubernetes Instructions: Make it highly impact-driven. Use strong action verbs. Quantify impact wherever possible. Remove redundancy. Make it suitable for AI/ML internship and cybersecurity roles. Keep it strictly one page. Format it cleanly and professionally. Output only the final resume.
+SUSHRITH KANDAGATA
++91-7892786525 | sushrithkandagatla@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/sushrith-kandagatla-9751572a6/
+
+EDUCATION
+
+B.Tech in Computer Science (Hons.)
+RV University, Bengaluru | 2023 – 2027
+
+TECHNICAL SKILLS
+
+Programming: Python, C++, Java, JavaScript, C, SQL (MySQL), HTML, CSS
+ML & AI: NumPy, Pandas, Scikit-Learn, TensorFlow, Keras, CNNs, Random Forest
+Cybersecurity & Systems: Network Traffic Analysis, Entropy-based Anomaly Detection, Bloom Filters
+Tools & Platforms: Git, Docker, Firebase, MongoDB, Streamlit, Dash, Tkinter
+Core Concepts: Data Structures & Algorithms, Computer Networks, Machine Learning, Deep Learning
+
+EXPERIENCE
+
+Cybersecurity Intern
+RV University | June 2025 – July 2025
+
+Designed and implemented a hybrid AI-based DDoS detection framework combining supervised and unsupervised learning.
+
+Integrated Random Forest and Isolation Forest models with entropy filtering to improve anomaly detection reliability.
+
+Simulated live network traffic attacks and validated model robustness against burst and low-rate attack patterns.
+
+Contributed to research documentation leading to a Springer conference paper (2025).
+
+PROJECTS
+
+Hybrid AI-Powered DDoS Detection System
+
+Built a real-time detection engine using Random Forest + Isolation Forest with entropy filtering and Bloom filter optimization.
+
+Developed live traffic simulation and feature extraction pipelines for supervised and unsupervised training.
+
+Designed an interactive Dash dashboard for attack visualization, timeline tracking, and anomaly reporting.
+
+Presented research as a Springer Conference Paper (2025).
+
+Skin Disease Classification using DenseNet121 (Transfer Learning)
+
+Fine-tuned ImageNet pre-trained DenseNet121 for multi-class dermatological image classification.
+
+Achieved 89.05% accuracy and 0.86 macro F1-score through data preprocessing, augmentation, and hyperparameter tuning.
+
+Implemented model evaluation using confusion matrix, precision-recall metrics, and cross-validation.
+
+AI-Based Posture Detection System
+
+Developed a real-time posture monitoring system using MediaPipe, OpenCV, and Flask.
+
+Engineered landmark-based angle detection algorithms to classify incorrect posture with instant feedback.
+
+Built an analytics dashboard for posture trend visualization and user performance tracking.
+
+Real-Time Collaborative Jamboard
+
+Designed a multi-user collaborative drawing and messaging platform using React and Node.js.
+
+Implemented WebSocket-based synchronization for real-time interaction across clients.
+
+ACHIEVEMENTS
+
+1st Place – Vemana Institute of Technology Hackathon
+Built “RESQ,” a Smart Emergency Vehicle Preemption System leveraging GPS and intelligent traffic signal control.
+
+CERTIFICATIONS
+
+NPTEL – Modern C++
+
+IBM – Big Data 101
+
+IBM – Hadoop 101
+
+IBM – Spark Fundamentals
+
+IBM – Containers & Kubernetes
