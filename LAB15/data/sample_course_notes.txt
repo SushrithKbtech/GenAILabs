@@ -1,0 +1,17 @@
+Introduction to Machine Learning
+
+Machine learning is a field of artificial intelligence where systems learn patterns from data instead of following only hard-coded rules. A typical workflow includes collecting data, cleaning it, selecting features, training a model, validating it, and deploying it.
+
+Supervised learning uses labeled examples. Common supervised tasks are classification and regression. Classification predicts categories such as spam or not spam, while regression predicts numeric values such as house prices. Linear regression is one of the simplest regression algorithms. Logistic regression is often used for binary classification.
+
+Decision trees split data based on feature values to reduce impurity. They are interpretable but can overfit if grown too deep. Random forests reduce overfitting by combining many decision trees trained on different subsets of data.
+
+Model evaluation is necessary because training accuracy alone can be misleading. Classification models are often measured with accuracy, precision, recall, F1-score, and ROC-AUC. Regression models are often measured with MAE, MSE, RMSE, and R-squared.
+
+Overfitting happens when a model memorizes training data and performs poorly on unseen examples. Underfitting happens when a model is too simple to capture the underlying pattern. The bias-variance tradeoff explains the balance between these two errors.
+
+Neural networks are made of layers of interconnected units called neurons. During training, weights are updated using backpropagation and gradient descent. Activation functions such as ReLU introduce non-linearity, allowing networks to model complex relationships.
+
+Unsupervised learning works with unlabeled data. Clustering groups similar observations together, while dimensionality reduction compresses features and can help visualization. K-means is a common clustering algorithm, and principal component analysis is a common dimensionality reduction method.
+
+Ethics in machine learning includes fairness, explainability, privacy, and responsible use of data. Students should always examine whether the training data contains bias and whether the model can be interpreted in the application context.
